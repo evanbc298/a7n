@@ -113,3 +113,33 @@ Quando o usuário pedir skill nova:
 4. Se a skill precisar de arquivos de apoio (templates, exemplos),
    criar dentro da pasta da skill
 5. Seguir o fluxo da skill-creator nativa do Claude Code
+
+---
+
+## A7N Empreendimentos
+
+Construtora em Balneário Camboriú (SC). Perfil "empresa", mas operação
+enxuta: tocada por uma pessoa só, com o MazyOS como parceiro de execução
+de marketing e conteúdo.
+
+**Estrutura de pastas usada aqui:**
+- `_memoria/` — quem é a A7N, tom de voz, foco atual (lançamento em andamento)
+- `identidade/` — logo e paleta da marca (navy/teal/cinza)
+- `marketing/` — campanhas e conteúdo, foco em Meta Ads
+- `dados/` — materiais de referência dos empreendimentos (PDFs, fotos)
+- `saidas/` — criativos e documentos gerados
+- `templates/` e `scripts/` — do próprio MazyOS
+
+**Foco atual:** vender o lançamento Jardim Dona Cilla via Meta Ads —
+ver `_memoria/estrategia.md` para prioridades e prazos.
+
+**Tom de voz:** ver `_memoria/preferencias.md` — direto e caloroso, sem
+gírias, sem emoji em excesso, sem jargão de guru.
+
+**Ferramentas conectadas:**
+- [ ] Meta Ads
+- [ ] Google Ads
+- [ ] Gmail
+- [ ] Google Drive
+
+*(Marcar conforme for instalando os MCPs)*
